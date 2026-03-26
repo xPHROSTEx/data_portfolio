@@ -1,4 +1,4 @@
-# Jobs Data Analysis (SQL Project)
+# 📊 SQL Jobs Analysis Project
 
 ## 📌 Objective
 Analyze job workflow data to understand workload distribution, job status, and priority levels.
